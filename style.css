@@ -1,0 +1,227 @@
+@import url("https://fonts.googleapis.com/css2? family= Chela+One & display=swap");
+body {
+  background-color: rgb(147, 112, 219);
+}
+header {
+  display: flex;
+  background-color: rgb(147, 112, 219);
+  width: 100%;
+}
+nav {
+  display: flex;
+  font-size: 25px;
+  background-color: rgb(176, 136, 255);
+  justify-content: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: rgb(234, 68, 170);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+a {
+  padding: 10px;
+}
+.navegacion {
+  letter-spacing: 2px;
+}
+#LOGO {
+  width: 100%;
+  height: 100%;
+}
+#Estambre {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  border-color: aliceblue;
+}
+#Tejer {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  border-color: aliceblue;
+}
+main {
+  background-color: rgb(172, 113, 227);
+}
+footer {
+  background-color: rgb(123, 104, 238);
+}
+h1 {
+  font-size: 30px;
+  color: rgb(89, 191, 251);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  display: flex;
+  justify-content: center;
+}
+h2 {
+  font-size: 25px;
+  color: rgb(128, 0, 128);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h3 {
+  font-size: 23px;
+  color: black;
+  font-family: "Chela One", cursive;
+  display: flex;
+  justify-content: center;
+}
+p {
+  font-size: 20px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.CONTENEDOR {
+  display: flex;
+  flex-direction: row;
+  margin: 10px 0 10px 0;
+  width: 100%;
+}
+.Caja {
+  width: 100%;
+  display: flex;
+  padding: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Pie p {
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+}
+#Página {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+#Página iframe {
+  padding: 10px;
+  margin: 10px;
+}
+.amigurumi {
+  color: rgb(226, 43, 137);
+}
+#llave {
+  width: 100%;
+  height: 100%;
+}
+#ami {
+  width: 100%;
+  height: 100%;
+}
+#conta {
+  width: 100%;
+  height: 100%;
+}
+.contactos {
+  display: flex;
+  flex-direction: row;
+  margin: 10px 0 10px 0;
+  width: 100%;
+}
+#insta {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+}
+#face {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+}
+#wha {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+}
+a {
+  text-decoration: none;
+  color: blueviolet;
+}
+.Llavero {
+  display: flex;
+  flex-direction: row;
+  margin: 10px 0 10px 0;
+  width: 100%;
+}
+#historia{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(147, 112, 219);
+  margin-top: 10px;
+}
+#columna{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(177, 141, 249);
+}
+
+.abscenter{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+#letras{
+  color: beige;
+}
+.contenido1{
+
+  display: flex;
+
+  flex-direction: column;
+}
+.contenido2{
+
+  display: flex;
+
+  flex-direction: column;
+}
+.contenido3{
+
+  display: flex;
+
+  flex-direction: column;
+}
+#contenido1 a{
+  text-decoration: none;
+  color: rgb(108, 56, 88);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  display: flex;
+  flex-direction: row;
+}
+#contenido2 a{
+  text-decoration: none;
+  color: rgb(108, 56, 88);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  display: flex;
+  flex-direction: row;
+  margin-right: 10px;
+}
+#contenido3 a{
+  text-decoration: none;
+  color: rgb(108, 56, 88);
+  font-family: Georgia, "Times New Roman", Times, serif;
+ display: flex;
+  flex-direction: row;
+  margin-right: 10px;
+}
+.accordion-button {        
+  background-color: rgb(198, 142, 222);
+  height: 30px;
+  color: rgb(139, 35, 229);   
+}
+
+.accordion-body{
+  padding: 8px 12px;
+  background-color: rgb(198, 142, 222); 
+}
+#abajo{
+  width: 100%;
+}
+
